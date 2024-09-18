@@ -34,3 +34,8 @@
 - Method overloading (having multiple methods with the same name but different parameters) and method overriding (redefining a method in a subclass) can be implemented here.
 
 
+## compiling java
+``` javac FileName.java ```
+
+## executing java
+``` java FileName  ```
